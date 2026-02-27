@@ -1,0 +1,23 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1B2A56"/>
+      <stop offset="100%" stop-color="#0F1731"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5B8CFF"/>
+      <stop offset="100%" stop-color="#6AA8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="28" fill="url(#bg)"/>
+  <circle cx="1000" cy="120" r="110" fill="#5B8CFF" fill-opacity="0.2"/>
+  <circle cx="180" cy="680" r="140" fill="#5B8CFF" fill-opacity="0.18"/>
+  <rect x="110" y="150" width="980" height="500" rx="22" fill="#111B39" stroke="#26304D"/>
+  <rect x="170" y="215" width="300" height="24" rx="12" fill="#2A365B"/>
+  <rect x="170" y="260" width="200" height="20" rx="10" fill="#2A365B"/>
+  <rect x="170" y="320" width="840" height="220" rx="16" fill="url(#card)"/>
+  <text x="190" y="390" fill="white" font-family="Arial, sans-serif" font-size="54" font-weight="700">Sua Landing Page</text>
+  <text x="190" y="455" fill="white" font-family="Arial, sans-serif" font-size="30" opacity="0.95">Pronta para GitHub + Vercel</text>
+  <rect x="190" y="490" width="240" height="52" rx="12" fill="#0B1020"/>
+  <text x="240" y="524" fill="#F1F5FF" font-family="Arial, sans-serif" font-size="24" font-weight="600">Deploy</text>
+</svg>
