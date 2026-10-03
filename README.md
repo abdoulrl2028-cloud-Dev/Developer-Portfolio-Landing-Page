@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/portfolio.jpg" alt="Landing page de portfólio" width="100%">
+</p>
+
 # Landing Page + Deploy na Vercel 🌍
 
 Projeto estático simples (HTML + CSS) pronto para deploy automático com GitHub e Vercel.
